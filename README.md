@@ -37,15 +37,11 @@ JobLedger notices when you apply for a job and records it for you: title, compan
 
 ## Screenshots
 
-| Dashboard | Job details |
-|---|---|
-| ![Dashboard](images/screenshot-1-dashboard.png) | ![Job details side panel](images/screenshot-2-details.png) |
-
-| Popup on a job page | Dark mode |
-|---|---|
-| ![Popup](images/screenshot-4-popup.png) | ![Dark mode](images/screenshot-3-dark.png) |
-
-![Settings](images/screenshot-5-settings.png)
+![Every job application, in one clear dashboard](images/screenshot-1-dashboard.png)
+![Every detail, one click away](images/screenshot-2-details.png)
+![Your job boards, synced every hour](images/screenshot-3-popup.png)
+![Easy on the eyes, day or night](images/screenshot-4-dark.png)
+![Private by design](images/screenshot-5-privacy.png)
 
 *Screenshots use made-up sample data.*
 
