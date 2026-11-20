@@ -21,7 +21,7 @@
 
 JobLedger notices when you apply for a job and records it for you: title, company, location, salary, job description and link. It then reads your job boards' "My applications" pages to keep every application's status current, so you can see at a glance what's waiting, what's moving and what to do next.
 
-**Works with:** LinkedIn · JobStreet / JobsDB / SEEK · Indeed · Maukerja · MYFutureJobs · foundit · Hiredly · Graduan · and any company careers site you turn on.
+**Works with:** LinkedIn · JobStreet / JobsDB / SEEK · Indeed · Maukerja · MYFutureJobs · and any company careers site you turn on.
 
 ## Features
 
@@ -75,6 +75,6 @@ JobLedger stores everything locally in your browser and sends nothing to anyone.
 
 ---
 
-JobLedger is an independent project, not affiliated with or endorsed by LinkedIn, SEEK/JobStreet, Indeed, foundit, Hiredly, Graduan, Maukerja or MYFutureJobs.
+JobLedger is an independent project, not affiliated with or endorsed by LinkedIn, SEEK/JobStreet, Indeed, Maukerja or MYFutureJobs.
 
 © 2026 JobLedger. All rights reserved.

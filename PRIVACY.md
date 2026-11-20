@@ -16,7 +16,7 @@ JobLedger stores the following, on your computer only:
 ## How JobLedger gets this information
 
 - **On supported job boards**, JobLedger reads the job you are looking at when you apply, and the list on your "my applications" page.
-  - Supported boards: LinkedIn, JobStreet (and JobsDB/SEEK), Indeed, foundit, Hiredly, Graduan, Maukerja and MYFutureJobs.
+  - Supported boards: LinkedIn, JobStreet (and JobsDB/SEEK), Indeed, Maukerja and MYFutureJobs.
 - **On other careers sites**, JobLedger reads pages only after you turn it on for that site from the JobLedger popup.
 - **When you click "Mark as applied" or "Save"** in the popup, JobLedger reads the page you are on.
 - **Automatic sync**, if on (Settings → Automatic sync), opens your supported boards' "my applications" pages in a minimised browser window and reads them, the same as if you had opened them yourself. It uses your existing sign-in to those sites. It only opens boards you have visited while signed in.
@@ -65,4 +65,4 @@ If this policy changes, the new version will be posted at this address with a ne
 
 Questions about this policy: hazrulhaiqal66@gmail.com
 
-JobLedger is an independent project. It is not affiliated with, endorsed by or sponsored by LinkedIn, SEEK/JobStreet, Indeed, foundit, Hiredly, Graduan, Maukerja or MYFutureJobs. Their names and icons are used only to show which site an application came from.
+JobLedger is an independent project. It is not affiliated with, endorsed by or sponsored by LinkedIn, SEEK/JobStreet, Indeed, Maukerja or MYFutureJobs. Their names and icons are used only to show which site an application came from.
